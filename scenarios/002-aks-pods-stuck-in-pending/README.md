@@ -7,8 +7,8 @@ A deployment was successfully created in AKS, but the pods remained in the **Pen
 ---
 
 ## 🖼 Architecture / Incident Diagram
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/330ef7e9-de4c-4cf5-80f6-aa9351948bb1" />
 
-![Pods Pending](architecture-overview.png)
 
 ---
 
